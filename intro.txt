@@ -1,0 +1,5 @@
+instalacion de herramientas:
+zender
+transformacion de datos 
+int()
+str()
